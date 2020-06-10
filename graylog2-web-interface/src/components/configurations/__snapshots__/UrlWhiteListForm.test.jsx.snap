@@ -895,6 +895,7 @@ exports[`UrlWhitelistForm render the UrlWhitelistForm component should create ne
                                           },
                                         },
                                         "mode": "teinte",
+                                        "updateThemeMode": [Function],
                                         "utils": Object {
                                           "colorLevel": [Function],
                                           "contrastingColor": [Function],
@@ -3044,6 +3045,7 @@ exports[`UrlWhitelistForm render the UrlWhitelistForm component should create ne
                                           },
                                         },
                                         "mode": "teinte",
+                                        "updateThemeMode": [Function],
                                         "utils": Object {
                                           "colorLevel": [Function],
                                           "contrastingColor": [Function],
@@ -5193,6 +5195,7 @@ exports[`UrlWhitelistForm render the UrlWhitelistForm component should create ne
                                           },
                                         },
                                         "mode": "teinte",
+                                        "updateThemeMode": [Function],
                                         "utils": Object {
                                           "colorLevel": [Function],
                                           "contrastingColor": [Function],

@@ -453,6 +453,7 @@ exports[`AggregationConditionExpression rendering conditions should render a boo
                                         },
                                       },
                                       "mode": "teinte",
+                                      "updateThemeMode": [Function],
                                       "utils": Object {
                                         "colorLevel": [Function],
                                         "contrastingColor": [Function],
@@ -2586,6 +2587,7 @@ exports[`AggregationConditionExpression rendering conditions should render a boo
                                                     },
                                                   },
                                                   "mode": "teinte",
+                                                  "updateThemeMode": [Function],
                                                   "utils": Object {
                                                     "colorLevel": [Function],
                                                     "contrastingColor": [Function],
@@ -4058,6 +4060,7 @@ exports[`AggregationConditionExpression rendering conditions should render a boo
                                                     },
                                                   },
                                                   "mode": "teinte",
+                                                  "updateThemeMode": [Function],
                                                   "utils": Object {
                                                     "colorLevel": [Function],
                                                     "contrastingColor": [Function],
@@ -5971,6 +5974,7 @@ exports[`AggregationConditionExpression rendering conditions should render a boo
                                         },
                                       },
                                       "mode": "teinte",
+                                      "updateThemeMode": [Function],
                                       "utils": Object {
                                         "colorLevel": [Function],
                                         "contrastingColor": [Function],
@@ -8721,6 +8725,7 @@ exports[`AggregationConditionExpression rendering conditions should render a boo
                                                     },
                                                   },
                                                   "mode": "teinte",
+                                                  "updateThemeMode": [Function],
                                                   "utils": Object {
                                                     "colorLevel": [Function],
                                                     "contrastingColor": [Function],
@@ -10193,6 +10198,7 @@ exports[`AggregationConditionExpression rendering conditions should render a boo
                                                     },
                                                   },
                                                   "mode": "teinte",
+                                                  "updateThemeMode": [Function],
                                                   "utils": Object {
                                                     "colorLevel": [Function],
                                                     "contrastingColor": [Function],
@@ -12066,6 +12072,7 @@ exports[`AggregationConditionExpression rendering conditions should render a boo
                                         },
                                       },
                                       "mode": "teinte",
+                                      "updateThemeMode": [Function],
                                       "utils": Object {
                                         "colorLevel": [Function],
                                         "contrastingColor": [Function],
@@ -14741,6 +14748,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                         },
                                       },
                                       "mode": "teinte",
+                                      "updateThemeMode": [Function],
                                       "utils": Object {
                                         "colorLevel": [Function],
                                         "contrastingColor": [Function],
@@ -16886,6 +16894,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                                     },
                                                   },
                                                   "mode": "teinte",
+                                                  "updateThemeMode": [Function],
                                                   "utils": Object {
                                                     "colorLevel": [Function],
                                                     "contrastingColor": [Function],
@@ -18358,6 +18367,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                                     },
                                                   },
                                                   "mode": "teinte",
+                                                  "updateThemeMode": [Function],
                                                   "utils": Object {
                                                     "colorLevel": [Function],
                                                     "contrastingColor": [Function],
@@ -20271,6 +20281,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                         },
                                       },
                                       "mode": "teinte",
+                                      "updateThemeMode": [Function],
                                       "utils": Object {
                                         "colorLevel": [Function],
                                         "contrastingColor": [Function],
@@ -23015,6 +23026,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                               },
                                             },
                                             "mode": "teinte",
+                                            "updateThemeMode": [Function],
                                             "utils": Object {
                                               "colorLevel": [Function],
                                               "contrastingColor": [Function],
@@ -25064,6 +25076,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                                               },
                                                             },
                                                             "mode": "teinte",
+                                                            "updateThemeMode": [Function],
                                                             "utils": Object {
                                                               "colorLevel": [Function],
                                                               "contrastingColor": [Function],
@@ -26536,6 +26549,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                                               },
                                                             },
                                                             "mode": "teinte",
+                                                            "updateThemeMode": [Function],
                                                             "utils": Object {
                                                               "colorLevel": [Function],
                                                               "contrastingColor": [Function],
@@ -28409,6 +28423,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                                   },
                                                 },
                                                 "mode": "teinte",
+                                                "updateThemeMode": [Function],
                                                 "utils": Object {
                                                   "colorLevel": [Function],
                                                   "contrastingColor": [Function],
@@ -31058,6 +31073,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                           },
                                         },
                                         "mode": "teinte",
+                                        "updateThemeMode": [Function],
                                         "utils": Object {
                                           "colorLevel": [Function],
                                           "contrastingColor": [Function],
@@ -33147,6 +33163,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                                           },
                                                         },
                                                         "mode": "teinte",
+                                                        "updateThemeMode": [Function],
                                                         "utils": Object {
                                                           "colorLevel": [Function],
                                                           "contrastingColor": [Function],
@@ -34619,6 +34636,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                                           },
                                                         },
                                                         "mode": "teinte",
+                                                        "updateThemeMode": [Function],
                                                         "utils": Object {
                                                           "colorLevel": [Function],
                                                           "contrastingColor": [Function],
@@ -36532,6 +36550,7 @@ exports[`AggregationConditionExpression rendering conditions should render a gro
                                               },
                                             },
                                             "mode": "teinte",
+                                            "updateThemeMode": [Function],
                                             "utils": Object {
                                               "colorLevel": [Function],
                                               "contrastingColor": [Function],
@@ -39228,6 +39247,7 @@ exports[`AggregationConditionExpression rendering conditions should render empty
                                         },
                                       },
                                       "mode": "teinte",
+                                      "updateThemeMode": [Function],
                                       "utils": Object {
                                         "colorLevel": [Function],
                                         "contrastingColor": [Function],
@@ -41204,6 +41224,7 @@ exports[`AggregationConditionExpression rendering conditions should render empty
                                                 },
                                               },
                                               "mode": "teinte",
+                                              "updateThemeMode": [Function],
                                               "utils": Object {
                                                 "colorLevel": [Function],
                                                 "contrastingColor": [Function],
@@ -42674,6 +42695,7 @@ exports[`AggregationConditionExpression rendering conditions should render empty
                                                 },
                                               },
                                               "mode": "teinte",
+                                              "updateThemeMode": [Function],
                                               "utils": Object {
                                                 "colorLevel": [Function],
                                                 "contrastingColor": [Function],
@@ -44391,6 +44413,7 @@ exports[`AggregationConditionExpression rendering conditions should render empty
                                     },
                                   },
                                   "mode": "teinte",
+                                  "updateThemeMode": [Function],
                                   "utils": Object {
                                     "colorLevel": [Function],
                                     "contrastingColor": [Function],
@@ -47076,6 +47099,7 @@ exports[`AggregationConditionExpression rendering conditions should render simpl
                                         },
                                       },
                                       "mode": "teinte",
+                                      "updateThemeMode": [Function],
                                       "utils": Object {
                                         "colorLevel": [Function],
                                         "contrastingColor": [Function],
@@ -49071,6 +49095,7 @@ exports[`AggregationConditionExpression rendering conditions should render simpl
                                                 },
                                               },
                                               "mode": "teinte",
+                                              "updateThemeMode": [Function],
                                               "utils": Object {
                                                 "colorLevel": [Function],
                                                 "contrastingColor": [Function],
@@ -50543,6 +50568,7 @@ exports[`AggregationConditionExpression rendering conditions should render simpl
                                                 },
                                               },
                                               "mode": "teinte",
+                                              "updateThemeMode": [Function],
                                               "utils": Object {
                                                 "colorLevel": [Function],
                                                 "contrastingColor": [Function],
@@ -52457,6 +52483,7 @@ exports[`AggregationConditionExpression rendering conditions should render simpl
                                     },
                                   },
                                   "mode": "teinte",
+                                  "updateThemeMode": [Function],
                                   "utils": Object {
                                     "colorLevel": [Function],
                                     "contrastingColor": [Function],

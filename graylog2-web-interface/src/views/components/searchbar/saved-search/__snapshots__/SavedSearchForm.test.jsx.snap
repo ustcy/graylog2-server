@@ -196,6 +196,7 @@ exports[`SavedSearchForm render the SavedSearchForm should render create new 1`]
                       },
                     },
                     "mode": "teinte",
+                    "updateThemeMode": [Function],
                     "utils": Object {
                       "colorLevel": [Function],
                       "contrastingColor": [Function],
@@ -785,6 +786,7 @@ exports[`SavedSearchForm render the SavedSearchForm should render disabled creat
                       },
                     },
                     "mode": "teinte",
+                    "updateThemeMode": [Function],
                     "utils": Object {
                       "colorLevel": [Function],
                       "contrastingColor": [Function],
@@ -1451,6 +1453,7 @@ exports[`SavedSearchForm render the SavedSearchForm should render save 1`] = `
                       },
                     },
                     "mode": "teinte",
+                    "updateThemeMode": [Function],
                     "utils": Object {
                       "colorLevel": [Function],
                       "contrastingColor": [Function],
