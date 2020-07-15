@@ -8066,7 +8066,7 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6
   dependencies:
     "@babel/preset-env" "7.10.4"
     babel-eslint "9.0.0"
-    eslint-config-graylog "file:../../../../../../Library/Caches/Yarn/v6/npm-graylog-web-plugin-4.0.0-SNAPSHOT-729043ba-d024-4261-b754-4ec27503d070-1594747230163/node_modules/eslint-config-graylog"
+    eslint-config-graylog "file:packages/eslint-config-graylog"
     html-webpack-plugin "^4.2.0"
     javascript-natural-sort "0.7.1"
     jquery "3.5.1"
@@ -12992,12 +12992,12 @@ react-color@^2.14.0:
     reactcss "^1.2.0"
     tinycolor2 "^1.4.1"
 
-react-day-picker@^5.0.0:
-  version "5.5.3"
-  resolved "https://registry.yarnpkg.com/react-day-picker/-/react-day-picker-5.5.3.tgz#d6a03bb0b15c6bb58629d749d8a7489cf6cfa52b"
-  integrity sha1-1qA7sLFca7WGKddJ2KdInPbPpSs=
+react-day-picker@^7.4.8:
+  version "7.4.8"
+  resolved "https://registry.yarnpkg.com/react-day-picker/-/react-day-picker-7.4.8.tgz#675625240d3fae1b41c0a9d5177c968c8517c1d4"
+  integrity sha512-pp0hnxFVoRuBQcRdR1Hofw4CQtOCGVmzCNrscyvS0Q8NEc+UiYLEDqE5dk37bf0leSnBW4lheIt0CKKhuKzDVw==
   dependencies:
-    prop-types "^15.5.10"
+    prop-types "^15.6.2"
 
 react-dev-utils@^9.1.0:
   version "9.1.0"
