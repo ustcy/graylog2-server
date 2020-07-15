@@ -1,6 +1,7 @@
 package org.graylog.storage.elasticsearch7;
 
 import com.github.joschi.jadconfig.util.Duration;
+import com.google.common.collect.Streams;
 import org.graylog.shaded.elasticsearch7.org.apache.http.HttpHost;
 import org.graylog.shaded.elasticsearch7.org.elasticsearch.ElasticsearchException;
 import org.graylog.shaded.elasticsearch7.org.elasticsearch.action.search.MultiSearchRequest;
@@ -19,6 +20,7 @@ import javax.inject.Named;
 import java.io.IOException;
 import java.net.URI;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import static com.google.common.base.Preconditions.checkArgument;
 
@@ -60,6 +62,17 @@ public class ElasticsearchClient {
         final MultiSearchResponse result = this.execute((c, requestOptions) -> c.msearch(multiSearchRequest, requestOptions), errorMessage);
 
         return firstResponseFrom(result, errorMessage);
+    }
+
+    public List<MultiSearchResponse.Item> msearch(List<SearchRequest> searchRequests, String errorMessage) {
+        final MultiSearchRequest multiSearchRequest = new MultiSearchRequest();
+
+        searchRequests.forEach(multiSearchRequest::add);
+
+        final MultiSearchResponse result = this.execute((c, requestOptions) -> c.msearch(multiSearchRequest, requestOptions), errorMessage);
+
+        return Streams.stream(result)
+                .collect(Collectors.toList());
     }
 
     private SearchResponse firstResponseFrom(MultiSearchResponse result, String errorMessage) {
